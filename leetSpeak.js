@@ -25,6 +25,4 @@ function leetSpeak(text) {
 
 }
 
-leetSpeak("elite boy")
-
 module.exports = leetSpeak
